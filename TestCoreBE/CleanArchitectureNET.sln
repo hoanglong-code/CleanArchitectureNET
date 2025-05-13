@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureNET", "CleanArchitectureNET.csproj", "{4EE2E0A2-C085-453B-9DB4-D97AE9AEF56D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{A5504F23-3015-4E64-935E-B3CF83777507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE2E0A2-C085-453B-9DB4-D97AE9AEF56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE2E0A2-C085-453B-9DB4-D97AE9AEF56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE2E0A2-C085-453B-9DB4-D97AE9AEF56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE2E0A2-C085-453B-9DB4-D97AE9AEF56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5504F23-3015-4E64-935E-B3CF83777507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5504F23-3015-4E64-935E-B3CF83777507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5504F23-3015-4E64-935E-B3CF83777507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5504F23-3015-4E64-935E-B3CF83777507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10DFF22-BA16-4824-9207-4CDBE8822022}
+	EndGlobalSection
+EndGlobal
